@@ -42,8 +42,8 @@ Prototype.unitypackage 仅包含游戏原型项目的所有内容，不包含数
 
 GameManager.cs 游戏主要逻辑循环的实现，生成游戏的主场景（Test_DATA）
 
-click.cs/click1.cs/click2.cs/click3.cs 不同点击事件逻辑的处理
-
 GM_END.cs 控制游戏的SampleScene场景的逻辑和场景物品的初始化生成
 
 GM_INI.cs 控制游戏的SampleScene_null场景的逻辑和场景物品的初始化生成
+
+click.cs/click1.cs/click2.cs/click3.cs 不同点击事件逻辑的处理
