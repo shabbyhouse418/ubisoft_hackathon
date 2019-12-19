@@ -31,6 +31,7 @@ main.py 主运行程序(watchdog监控文件目录变化,若数据库文件变�
 Prototype.unitypackage 仅包含游戏原型项目的所有内容，不包含数据处理内容
 
 使用方法：
+
 1、使用Unity3D将所有文件导入
 2、将Test_DATA、SampleScene、SampleScene_null三个场景添加进Build Settings...
 3、使用16:9的分辨率运行以达到最好效果
